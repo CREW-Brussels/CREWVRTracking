@@ -16,11 +16,7 @@
 		"Win64"
 	],
 	"Modules": [
-		{
-			"Name": "SpecificAudioCapture",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
+
 	],
 	"Plugins": [
 		{

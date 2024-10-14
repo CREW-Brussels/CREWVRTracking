@@ -12,6 +12,16 @@
 	"SupportURL": "",
 	"CanContainContent": true,
 	"Installed": true,
+	"SupportedTargetPlatforms": [
+		"Win64"
+	],
+	"Modules": [
+		{
+			"Name": "SpecificAudioCapture",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ViveOpenXR",

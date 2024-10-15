@@ -12,6 +12,12 @@
 	"SupportURL": "",
 	"CanContainContent": true,
 	"Installed": true,
+	"SupportedTargetPlatforms": [
+		"Win64"
+	],
+	"Modules": [
+
+	],
 	"Plugins": [
 		{
 			"Name": "ViveOpenXR",
